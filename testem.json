@@ -1,0 +1,9 @@
+{
+    "launch_in_dev":[ "chrome", "firefox", "safari", "phantomjs" ],
+	"framework": "jasmine",
+    "src_files":[
+		"test/helpers/*",
+        "cookieJar.js",
+        "test/cookieJarSpec.js"
+    ]
+}
